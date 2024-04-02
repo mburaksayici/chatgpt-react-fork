@@ -1,6 +1,6 @@
 # React ChatGPT Clone
-# Note : This is definitely not my work. I cloned : https://github.com/uigywnkiub/react-chatgpt-clone , did small changes to integrate with backend of https://github.com/mburaksayici/FinancialAdvisorGPT. Since i pushed from my local to the clone, I can't fork it now.  All kudos to https://github.com/uigywnkiub .  
-
+## Note : This is definitely not my work. I cloned : https://github.com/uigywnkiub/react-chatgpt-clone , did small changes to integrate with backend of https://github.com/mburaksayici/FinancialAdvisorGPT. Since i pushed from my local to the clone.  All kudos to https://github.com/uigywnkiub .  
+## See : https://github.com/mburaksayici/react-chatgpt-clone
 The ChatGPT clone uses chat completion v1 API with your gpt model and express.js to run a server requesting client-side requests.
 
 ## Screenshots
